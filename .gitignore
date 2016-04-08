@@ -21,7 +21,9 @@
 /.bundle
 /vendor/bundle/
 /vendor/ruby/
-
+*.so
+*.old
+*.yml
 # minimal Rails specific artifacts
 db/*.sqlite3
 /log/*
